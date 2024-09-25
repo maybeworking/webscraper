@@ -1,5 +1,5 @@
 # webscraper
-Selium initial web-scrape with ubuntu/debian
+Selenium initial web-scrape with ubuntu/debian
 
 # Steps:
 ### requirements:
